@@ -1,10 +1,12 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Este repositório é uma versão modificada, como exercício de aprendizado, de uma página de login do Instagram. 
 
-### Os requisitos são:
+### As alterações são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* Movido o formulário de login para dentro da imagem do celular.
+* Centralizada a imagem do celular na tela.
+* Eliminação dos botões para baixar o aplicativo.
 
-## 🚀 Let's code! 🚀
+----------------------------------------------------------------------------
+* [Repositório original](https://github.com/SpruceGabriela/instagram-dio)
